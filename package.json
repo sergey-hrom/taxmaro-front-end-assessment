@@ -23,7 +23,6 @@
     "vuetify": "^3.10.9",
     "zod": "^4.1.12"
   },
-  "packageManager": "pnpm@10.21.0",
   "devDependencies": {
     "@mdi/font": "^7.4.47",
     "@nuxt/fonts": "^0.12.1",
